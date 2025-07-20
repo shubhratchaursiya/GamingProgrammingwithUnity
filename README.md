@@ -68,11 +68,7 @@ git clone https://github.com/shubhratchaursiya/EndlessRunner.git
 ### **3. Play the Game**
 
 * Click the **Play** button in Unity Editor.
-
-https://github.com/user-attachments/assets/4209a92c-7004-4d7f-ad9b-d147de12665a
-
-
-
+  
 ---
 
 ## 🎨 **VideoClip**
