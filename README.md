@@ -102,3 +102,14 @@ Pull requests are welcome! Feel free to suggest improvements or report bugs.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+## 📬 Feedback & Contact
+
+I'd love to hear your thoughts!
+GitHub: `https://github.com/your-username`
+LinkedIn: `## 📬 Feedback & Contact
+
+I'd love to hear your thoughts!
+GitHub: `https://github.com/shubhratchaursiya`
+LinkedIn: `https://www.linkedin.com/in/shubhrat-chaursiya-819672354/`
+
+```
